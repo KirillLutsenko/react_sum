@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,iBACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB","file":"main.aaa8286c.chunk.css","sourcesContent":[".app__calculator {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n"]}
